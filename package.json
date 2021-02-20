@@ -1,0 +1,13 @@
+{
+  "name": "tortoise-vs-hare-node",
+  "version": "1.0.0",
+  "description": "Server for Tortoise Vs Hare Game",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.5.1"
+  },
+  "devDependencies": {},
+  "author": "GMAN",
+  "license": "ISC"
+}
